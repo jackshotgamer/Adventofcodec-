@@ -1,0 +1,14 @@
+D:\CsharpLearn\AdventofCode\2023\day_1\bin\Debug\net8.0\day_1.exe
+D:\CsharpLearn\AdventofCode\2023\day_1\bin\Debug\net8.0\day_1.deps.json
+D:\CsharpLearn\AdventofCode\2023\day_1\bin\Debug\net8.0\day_1.runtimeconfig.json
+D:\CsharpLearn\AdventofCode\2023\day_1\bin\Debug\net8.0\day_1.dll
+D:\CsharpLearn\AdventofCode\2023\day_1\bin\Debug\net8.0\day_1.pdb
+D:\CsharpLearn\AdventofCode\2023\day_1\obj\Debug\net8.0\day_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpLearn\AdventofCode\2023\day_1\obj\Debug\net8.0\day_1.AssemblyInfoInputs.cache
+D:\CsharpLearn\AdventofCode\2023\day_1\obj\Debug\net8.0\day_1.AssemblyInfo.cs
+D:\CsharpLearn\AdventofCode\2023\day_1\obj\Debug\net8.0\day_1.csproj.CoreCompileInputs.cache
+D:\CsharpLearn\AdventofCode\2023\day_1\obj\Debug\net8.0\day_1.dll
+D:\CsharpLearn\AdventofCode\2023\day_1\obj\Debug\net8.0\refint\day_1.dll
+D:\CsharpLearn\AdventofCode\2023\day_1\obj\Debug\net8.0\day_1.pdb
+D:\CsharpLearn\AdventofCode\2023\day_1\obj\Debug\net8.0\day_1.genruntimeconfig.cache
+D:\CsharpLearn\AdventofCode\2023\day_1\obj\Debug\net8.0\ref\day_1.dll

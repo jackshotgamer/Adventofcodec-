@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CsharpLearn\\AdventofCode\\2023\\day_4\\day_4.csproj": {}
+  },
+  "projects": {
+    "D:\\CsharpLearn\\AdventofCode\\2023\\day_4\\day_4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CsharpLearn\\AdventofCode\\2023\\day_4\\day_4.csproj",
+        "projectName": "day_4",
+        "projectPath": "D:\\CsharpLearn\\AdventofCode\\2023\\day_4\\day_4.csproj",
+        "packagesPath": "C:\\Users\\jacks\\.nuget\\packages\\",
+        "outputPath": "D:\\CsharpLearn\\AdventofCode\\2023\\day_4\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jacks\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
